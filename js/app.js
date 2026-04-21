@@ -15,7 +15,7 @@
 
 const CONFIG = {
     // ЗАМЕНИТЕ ЭТУ ССЫЛКУ на вашу CSV-ссылку из Google Sheets
-    SHEET_URL: 'https://docs.google.com/spreadsheets/d/ВАШ_ID/export?format=csv',
+    SHEET_URL: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRqoUEksexahz9qmPIH4tnt7_pv0s0zuioF43jt9ftE264RW8MlRomCK8F-2GEz_w/pub?gid=549941518&single=true&output=csv',
     
     // Или используйте CORS-прокси если нужно (например: https://corsproxy.io/?)
     CORS_PROXY: '',
